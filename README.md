@@ -100,8 +100,8 @@ An interactive Power BI dashboard was developed to visualize:
 - High-risk operating conditions  
 
 (Add dashboard screenshot here)
+<img width="1283" height="717" alt="image" src="https://github.com/user-attachments/assets/cf9f9bd0-d653-4f52-a4f7-2129a09405cc" />
 
----
 
 ## 🚀 Project Outcome
 This project demonstrates the ability to:
